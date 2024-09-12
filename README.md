@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Firebase CRUD Application with Angular
 
 ## Overview
